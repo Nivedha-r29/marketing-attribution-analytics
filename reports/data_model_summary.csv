@@ -1,0 +1,16 @@
+Column,Data Type,Missing Values
+CampaignID,object,0
+StartDate,object,0
+EndDate,object,0
+Channel,object,0
+Impressions,int64,0
+Clicks,int64,0
+Leads,int64,0
+Conversions,int64,0
+Cost_USD,float64,0
+Revenue_USD,float64,0
+ROI,float64,0
+Campaign_Duration,int64,0
+CPC,float64,0
+CPL,float64,0
+Conversion_Rate,float64,0
