@@ -27,5 +27,4 @@ Marketing Campaign Dataset
 | Numeric Validation | Passed |
 
 ## Conclusion
-
 The dataset has passed all validation checks and is ready for KPI analysis, SQL analysis, and dashboard development.
